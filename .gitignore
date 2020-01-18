@@ -38,7 +38,7 @@ jspm_packages
 
 # Custom
 .DS_Store
-dist/
+# dist/
 secrets/
 
 # Screenshots
